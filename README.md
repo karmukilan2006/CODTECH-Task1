@@ -8,7 +8,6 @@ Mentor: N.SANTHOSH
 Project Overview: Simple Calculator Application
 
 Objective:
-
 The project implements a graphical user interface (GUI) calculator using Java's Swing library. It allows users to perform basic arithmetic operations, including addition, subtraction, multiplication, and division, with real-time input handling.
 
 Key Features:
